@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="">
+<ul>
+</ul>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="keywords" content="mortgage, loan, Knoxville, Clint, Dalton, home, loan,">
+    <meta name="author" content="Marie Dalton"
+    7
+    <title>Knoxville Mortgage loan | Welcome</title>
+     <style type="text/css">
+            h1{
+                color:blue;
+            }
+     </style>
+    <link rel="stylesheet" href=".css/style.css">
+    </head>
+
+
+     <body>
+        <header>
+        <div class="container">
+          <div id="branding">
+            <h1>Home Loans</h1>
+            </div>
+            <nav>
+              <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Contact</a></li>
+          </ul>    
+         </nav>
+        </div>
+       </header>
+
+       <section id="showcase">
+          <div class="container">
+            <h2>Knoxville's Premier Mortgage Lender</h2>
+            <style type="text/css">
+              h2{
+                color:orange;
+              }
+            </style>
+    </html>
+        <body>
+              <!-- Paragraph -->
+  	 <p>
+        </div>
+      </section>
+
+      <section id="newsletter">
+        <div class="container">
+         <h1> Enter email for one of us to contact you</h1>
+         <form>
+     <input type="email" placeholder="Enter Email...">
+  <button type="submit" class="button_1">Subscribe</button>
+          </form>
+        </div>
+      </section>
+
+      <section id="boxes">
+        <div class="container"
+        <div class="box">
+    <img class="img-house" src="images/home.jpg" alt="house logo"
+
+    
+       </div>
+      </section>
+     </body>
+    <!
